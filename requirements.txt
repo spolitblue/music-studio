@@ -1,0 +1,19 @@
+# 制乐软件 Music Studio —— 运行依赖
+#
+# 安装（在项目根目录）：
+#   py -m venv .venv
+#   .venv\Scripts\python -m pip install -r requirements.txt
+#
+# 或者直接双击 run.bat（会自动完成以上步骤）
+
+# GUI 框架（官方 Qt for Python，LGPL）
+PySide6>=6.7,<6.10
+
+# 实时音频播放（wheel 自带 PortAudio，Windows 免配置）
+sounddevice>=0.4.7
+
+# 数值/DSP 核心（离线渲染、滤波、混音全部基于它）
+numpy>=1.26
+
+# 平台相关：Windows DWM 亚克力/云母材质（缺省时自动降级为自绘玻璃）
+pywin32>=306; sys_platform == "win32"

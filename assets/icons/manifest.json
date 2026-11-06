@@ -1,0 +1,1025 @@
+{
+  "source": "Twemoji v17.0.3 (jdecked/twemoji)",
+  "license": "CC-BY 4.0",
+  "attribution": "Emoji graphics by Twemoji (https://github.com/jdecked/twemoji), CC-BY 4.0.",
+  "viewBox": "36x36",
+  "count": 127,
+  "icons": {
+    "play": {
+      "cp": "25b6",
+      "zh": "播放按钮",
+      "en": "play button",
+      "group": "Symbols",
+      "subgroup": "av-symbol",
+      "file": "09_09_Symbols/077_播放按钮_play-button__25b6"
+    },
+    "pause": {
+      "cp": "23f8",
+      "zh": "暂停按钮",
+      "en": "pause button",
+      "group": "Symbols",
+      "subgroup": "av-symbol",
+      "file": "09_09_Symbols/088_暂停按钮_pause-button__23f8"
+    },
+    "stop": {
+      "cp": "23f9",
+      "zh": "停止按钮",
+      "en": "stop button",
+      "group": "Symbols",
+      "subgroup": "av-symbol",
+      "file": "09_09_Symbols/089_停止按钮_stop-button__23f9"
+    },
+    "record": {
+      "cp": "23fa",
+      "zh": "录制按钮",
+      "en": "record button",
+      "group": "Symbols",
+      "subgroup": "av-symbol",
+      "file": "09_09_Symbols/090_录制按钮_record-button__23fa"
+    },
+    "play_pause": {
+      "cp": "23ef",
+      "zh": "播放或暂停按钮",
+      "en": "play or pause button",
+      "group": "Symbols",
+      "subgroup": "av-symbol",
+      "file": "09_09_Symbols/080_播放或暂停按钮_play-or-pause-button__23ef"
+    },
+    "prev": {
+      "cp": "23ee",
+      "zh": "上一个音轨按钮",
+      "en": "last track button",
+      "group": "Symbols",
+      "subgroup": "av-symbol",
+      "file": "09_09_Symbols/083_上一个音轨按钮_last-track-button__23ee"
+    },
+    "next": {
+      "cp": "23ed",
+      "zh": "下一个音轨按钮",
+      "en": "next track button",
+      "group": "Symbols",
+      "subgroup": "av-symbol",
+      "file": "09_09_Symbols/079_下一个音轨按钮_next-track-button__23ed"
+    },
+    "rewind": {
+      "cp": "23ea",
+      "zh": "快退按钮",
+      "en": "fast reverse button",
+      "group": "Symbols",
+      "subgroup": "av-symbol",
+      "file": "09_09_Symbols/082_快退按钮_fast-reverse-button__23ea"
+    },
+    "fast_forward": {
+      "cp": "23e9",
+      "zh": "快进按钮",
+      "en": "fast-forward button",
+      "group": "Symbols",
+      "subgroup": "av-symbol",
+      "file": "09_09_Symbols/078_快进按钮_fast-forward-button__23e9"
+    },
+    "loop": {
+      "cp": "1f501",
+      "zh": "重复按钮",
+      "en": "repeat button",
+      "group": "Symbols",
+      "subgroup": "av-symbol",
+      "file": "09_09_Symbols/075_重复按钮_repeat-button__1f501"
+    },
+    "loop_one": {
+      "cp": "1f502",
+      "zh": "重复一次按钮",
+      "en": "repeat single button",
+      "group": "Symbols",
+      "subgroup": "av-symbol",
+      "file": "09_09_Symbols/076_重复一次按钮_repeat-single-button__1f502"
+    },
+    "shuffle": {
+      "cp": "1f500",
+      "zh": "随机播放音轨按钮",
+      "en": "shuffle tracks button",
+      "group": "Symbols",
+      "subgroup": "av-symbol",
+      "file": "09_09_Symbols/074_随机播放音轨按钮_shuffle-tracks-button__1f500"
+    },
+    "metronome": {
+      "cp": "23f1",
+      "zh": "秒表",
+      "en": "stopwatch",
+      "group": "Travel & Places",
+      "subgroup": "time",
+      "file": "06_06_Travel-and-Places/146_秒表_stopwatch__23f1"
+    },
+    "stopwatch": {
+      "cp": "23f2",
+      "zh": "定时器",
+      "en": "timer clock",
+      "group": "Travel & Places",
+      "subgroup": "time",
+      "file": "06_06_Travel-and-Places/147_定时器_timer-clock__23f2"
+    },
+    "timer": {
+      "cp": "23f3",
+      "zh": "沙正往下流的沙漏",
+      "en": "hourglass not done",
+      "group": "Travel & Places",
+      "subgroup": "time",
+      "file": "06_06_Travel-and-Places/143_沙正往下流的沙漏_hourglass-not-done__23f3"
+    },
+    "piano": {
+      "cp": "1f3b9",
+      "zh": "音乐键盘",
+      "en": "musical keyboard",
+      "group": "Objects",
+      "subgroup": "musical-instrument",
+      "file": "08_08_Objects/071_音乐键盘_musical-keyboard__1f3b9"
+    },
+    "guitar": {
+      "cp": "1f3b8",
+      "zh": "吉他",
+      "en": "guitar",
+      "group": "Objects",
+      "subgroup": "musical-instrument",
+      "file": "08_08_Objects/070_吉他_guitar__1f3b8"
+    },
+    "drums": {
+      "cp": "1f941",
+      "zh": "鼓",
+      "en": "drum",
+      "group": "Objects",
+      "subgroup": "musical-instrument",
+      "file": "08_08_Objects/074_鼓_drum__1f941"
+    },
+    "trumpet": {
+      "cp": "1f3ba",
+      "zh": "小号",
+      "en": "trumpet",
+      "group": "Objects",
+      "subgroup": "musical-instrument",
+      "file": "08_08_Objects/067_小号_trumpet__1f3ba"
+    },
+    "violin": {
+      "cp": "1f3bb",
+      "zh": "小提琴",
+      "en": "violin",
+      "group": "Objects",
+      "subgroup": "musical-instrument",
+      "file": "08_08_Objects/072_小提琴_violin__1f3bb"
+    },
+    "saxophone": {
+      "cp": "1f3b7",
+      "zh": "萨克斯管",
+      "en": "saxophone",
+      "group": "Objects",
+      "subgroup": "musical-instrument",
+      "file": "08_08_Objects/066_萨克斯管_saxophone__1f3b7"
+    },
+    "banjo": {
+      "cp": "1fa95",
+      "zh": "班卓琴",
+      "en": "banjo",
+      "group": "Objects",
+      "subgroup": "musical-instrument",
+      "file": "08_08_Objects/073_班卓琴_banjo__1fa95"
+    },
+    "accordion": {
+      "cp": "1fa97",
+      "zh": "手风琴",
+      "en": "accordion",
+      "group": "Objects",
+      "subgroup": "musical-instrument",
+      "file": "08_08_Objects/069_手风琴_accordion__1fa97"
+    },
+    "flute": {
+      "cp": "1fa88",
+      "zh": "长笛",
+      "en": "flute",
+      "group": "Objects",
+      "subgroup": "musical-instrument",
+      "file": "08_08_Objects/077_长笛_flute__1fa88"
+    },
+    "microphone": {
+      "cp": "1f3a4",
+      "zh": "麦克风",
+      "en": "microphone",
+      "group": "Objects",
+      "subgroup": "music",
+      "file": "08_08_Objects/063_麦克风_microphone__1f3a4"
+    },
+    "studio_mic": {
+      "cp": "1f399",
+      "zh": "录音室麦克风",
+      "en": "studio microphone",
+      "group": "Objects",
+      "subgroup": "music",
+      "file": "08_08_Objects/060_录音室麦克风_studio-microphone__1f399"
+    },
+    "headphones": {
+      "cp": "1f3a7",
+      "zh": "耳机",
+      "en": "headphone",
+      "group": "Objects",
+      "subgroup": "music",
+      "file": "08_08_Objects/064_耳机_headphone__1f3a7"
+    },
+    "level_slider": {
+      "cp": "1f39a",
+      "zh": "电平滑块",
+      "en": "level slider",
+      "group": "Objects",
+      "subgroup": "music",
+      "file": "08_08_Objects/061_电平滑块_level-slider__1f39a"
+    },
+    "control_knobs": {
+      "cp": "1f39b",
+      "zh": "控制旋钮",
+      "en": "control knobs",
+      "group": "Objects",
+      "subgroup": "music",
+      "file": "08_08_Objects/062_控制旋钮_control-knobs__1f39b"
+    },
+    "note": {
+      "cp": "1f3b5",
+      "zh": "音符",
+      "en": "musical note",
+      "group": "Objects",
+      "subgroup": "music",
+      "file": "08_08_Objects/058_音符_musical-note__1f3b5"
+    },
+    "notes": {
+      "cp": "1f3b6",
+      "zh": "多个音符",
+      "en": "musical notes",
+      "group": "Objects",
+      "subgroup": "music",
+      "file": "08_08_Objects/059_多个音符_musical-notes__1f3b6"
+    },
+    "score": {
+      "cp": "1f3bc",
+      "zh": "乐谱",
+      "en": "musical score",
+      "group": "Objects",
+      "subgroup": "music",
+      "file": "08_08_Objects/057_乐谱_musical-score__1f3bc"
+    },
+    "speaker_high": {
+      "cp": "1f50a",
+      "zh": "高音量的扬声器",
+      "en": "speaker high volume",
+      "group": "Objects",
+      "subgroup": "sound",
+      "file": "08_08_Objects/051_高音量的扬声器_speaker-high-volume__1f50a"
+    },
+    "speaker_medium": {
+      "cp": "1f509",
+      "zh": "中等音量的扬声器",
+      "en": "speaker medium volume",
+      "group": "Objects",
+      "subgroup": "sound",
+      "file": "08_08_Objects/050_中等音量的扬声器_speaker-medium-volume__1f509"
+    },
+    "speaker_low": {
+      "cp": "1f508",
+      "zh": "低音量的扬声器",
+      "en": "speaker low volume",
+      "group": "Objects",
+      "subgroup": "sound",
+      "file": "08_08_Objects/049_低音量的扬声器_speaker-low-volume__1f508"
+    },
+    "speaker_mute": {
+      "cp": "1f507",
+      "zh": "已静音的扬声器",
+      "en": "muted speaker",
+      "group": "Objects",
+      "subgroup": "sound",
+      "file": "08_08_Objects/048_已静音的扬声器_muted-speaker__1f507"
+    },
+    "radio": {
+      "cp": "1f4fb",
+      "zh": "收音机",
+      "en": "radio",
+      "group": "Objects",
+      "subgroup": "music",
+      "file": "08_08_Objects/065_收音机_radio__1f4fb"
+    },
+    "cd": {
+      "cp": "1f4bf",
+      "zh": "光盘",
+      "en": "optical disk",
+      "group": "Objects",
+      "subgroup": "computer",
+      "file": "08_08_Objects/096_光盘_optical-disk__1f4bf"
+    },
+    "bell": {
+      "cp": "1f514",
+      "zh": "铃铛",
+      "en": "bell",
+      "group": "Objects",
+      "subgroup": "sound",
+      "file": "08_08_Objects/055_铃铛_bell__1f514"
+    },
+    "bell_off": {
+      "cp": "1f515",
+      "zh": "禁止响铃",
+      "en": "bell with slash",
+      "group": "Objects",
+      "subgroup": "sound",
+      "file": "08_08_Objects/056_禁止响铃_bell-with-slash__1f515"
+    },
+    "clapper": {
+      "cp": "1f3ac",
+      "zh": "场记板",
+      "en": "clapper board",
+      "group": "Objects",
+      "subgroup": "light & video",
+      "file": "08_08_Objects/102_场记板_clapper-board__1f3ac"
+    },
+    "add": {
+      "cp": "2795",
+      "zh": "加",
+      "en": "plus",
+      "group": "Symbols",
+      "subgroup": "math",
+      "file": "09_09_Symbols/103_加_plus__2795"
+    },
+    "remove": {
+      "cp": "2796",
+      "zh": "减",
+      "en": "minus",
+      "group": "Symbols",
+      "subgroup": "math",
+      "file": "09_09_Symbols/104_减_minus__2796"
+    },
+    "divide": {
+      "cp": "2797",
+      "zh": "除",
+      "en": "divide",
+      "group": "Symbols",
+      "subgroup": "math",
+      "file": "09_09_Symbols/105_除_divide__2797"
+    },
+    "multiply": {
+      "cp": "2716",
+      "zh": "乘",
+      "en": "multiply",
+      "group": "Symbols",
+      "subgroup": "math",
+      "file": "09_09_Symbols/102_乘_multiply__2716"
+    },
+    "edit": {
+      "cp": "270f",
+      "zh": "铅笔",
+      "en": "pencil",
+      "group": "Objects",
+      "subgroup": "writing",
+      "file": "08_08_Objects/156_铅笔_pencil__270f"
+    },
+    "delete": {
+      "cp": "1f5d1",
+      "zh": "垃圾桶",
+      "en": "wastebasket",
+      "group": "Objects",
+      "subgroup": "office",
+      "file": "08_08_Objects/185_垃圾桶_wastebasket__1f5d1"
+    },
+    "save": {
+      "cp": "1f4be",
+      "zh": "软盘",
+      "en": "floppy disk",
+      "group": "Objects",
+      "subgroup": "computer",
+      "file": "08_08_Objects/095_软盘_floppy-disk__1f4be"
+    },
+    "folder": {
+      "cp": "1f4c1",
+      "zh": "文件夹",
+      "en": "file folder",
+      "group": "Objects",
+      "subgroup": "office",
+      "file": "08_08_Objects/164_文件夹_file-folder__1f4c1"
+    },
+    "folder_open": {
+      "cp": "1f4c2",
+      "zh": "打开的文件夹",
+      "en": "open file folder",
+      "group": "Objects",
+      "subgroup": "office",
+      "file": "08_08_Objects/165_打开的文件夹_open-file-folder__1f4c2"
+    },
+    "file": {
+      "cp": "1f4c4",
+      "zh": "文件",
+      "en": "page facing up",
+      "group": "Objects",
+      "subgroup": "book-paper",
+      "file": "08_08_Objects/126_文件_page-facing-up__1f4c4"
+    },
+    "clipboard": {
+      "cp": "1f4cb",
+      "zh": "剪贴板",
+      "en": "clipboard",
+      "group": "Objects",
+      "subgroup": "office",
+      "file": "08_08_Objects/175_剪贴板_clipboard__1f4cb"
+    },
+    "memo": {
+      "cp": "1f4dd",
+      "zh": "备忘录",
+      "en": "memo",
+      "group": "Objects",
+      "subgroup": "writing",
+      "file": "08_08_Objects/162_备忘录_memo__1f4dd"
+    },
+    "undo": {
+      "cp": "21a9",
+      "zh": "右转弯箭头",
+      "en": "right arrow curving left",
+      "group": "Symbols",
+      "subgroup": "arrow",
+      "file": "09_09_Symbols/037_右转弯箭头_right-arrow-curving-left__21a9"
+    },
+    "redo": {
+      "cp": "21aa",
+      "zh": "左转弯箭头",
+      "en": "left arrow curving right",
+      "group": "Symbols",
+      "subgroup": "arrow",
+      "file": "09_09_Symbols/038_左转弯箭头_left-arrow-curving-right__21aa"
+    },
+    "refresh": {
+      "cp": "1f504",
+      "zh": "逆时针箭头按钮",
+      "en": "counterclockwise arrows button",
+      "group": "Symbols",
+      "subgroup": "arrow",
+      "file": "09_09_Symbols/042_逆时针箭头按钮_counterclockwise-arrows-button__1f504"
+    },
+    "settings": {
+      "cp": "2699",
+      "zh": "齿轮",
+      "en": "gear",
+      "group": "Objects",
+      "subgroup": "tool",
+      "file": "08_08_Objects/207_齿轮_gear__2699"
+    },
+    "wrench": {
+      "cp": "1f527",
+      "zh": "扳手",
+      "en": "wrench",
+      "group": "Objects",
+      "subgroup": "tool",
+      "file": "08_08_Objects/204_扳手_wrench__1f527"
+    },
+    "tools": {
+      "cp": "1f6e0",
+      "zh": "锤子与扳手",
+      "en": "hammer and wrench",
+      "group": "Objects",
+      "subgroup": "tool",
+      "file": "08_08_Objects/196_锤子与扳手_hammer-and-wrench__1f6e0"
+    },
+    "search": {
+      "cp": "1f50d",
+      "zh": "左斜的放大镜",
+      "en": "magnifying glass tilted left",
+      "group": "Objects",
+      "subgroup": "light & video",
+      "file": "08_08_Objects/108_左斜的放大镜_magnifying-glass-tilted-left__1f50d"
+    },
+    "zoom_in": {
+      "cp": "1f50e",
+      "zh": "右斜的放大镜",
+      "en": "magnifying glass tilted right",
+      "group": "Objects",
+      "subgroup": "light & video",
+      "file": "08_08_Objects/109_右斜的放大镜_magnifying-glass-tilted-right__1f50e"
+    },
+    "lock": {
+      "cp": "1f512",
+      "zh": "合上的锁",
+      "en": "locked",
+      "group": "Objects",
+      "subgroup": "lock",
+      "file": "08_08_Objects/186_合上的锁_locked__1f512"
+    },
+    "unlock": {
+      "cp": "1f513",
+      "zh": "打开的锁",
+      "en": "unlocked",
+      "group": "Objects",
+      "subgroup": "lock",
+      "file": "08_08_Objects/187_打开的锁_unlocked__1f513"
+    },
+    "pin": {
+      "cp": "1f4cc",
+      "zh": "图钉",
+      "en": "pushpin",
+      "group": "Objects",
+      "subgroup": "office",
+      "file": "08_08_Objects/176_图钉_pushpin__1f4cc"
+    },
+    "link": {
+      "cp": "1f517",
+      "zh": "链接",
+      "en": "link",
+      "group": "Objects",
+      "subgroup": "tool",
+      "file": "08_08_Objects/211_链接_link__1f517"
+    },
+    "download": {
+      "cp": "1f4e5",
+      "zh": "收件箱",
+      "en": "inbox tray",
+      "group": "Objects",
+      "subgroup": "mail",
+      "file": "08_08_Objects/148_收件箱_inbox-tray__1f4e5"
+    },
+    "upload": {
+      "cp": "1f4e4",
+      "zh": "发件箱",
+      "en": "outbox tray",
+      "group": "Objects",
+      "subgroup": "mail",
+      "file": "08_08_Objects/147_发件箱_outbox-tray__1f4e4"
+    },
+    "arrow_up": {
+      "cp": "2b06",
+      "zh": "向上箭头",
+      "en": "up arrow",
+      "group": "Symbols",
+      "subgroup": "arrow",
+      "file": "09_09_Symbols/027_向上箭头_up-arrow__2b06"
+    },
+    "arrow_down": {
+      "cp": "2b07",
+      "zh": "向下箭头",
+      "en": "down arrow",
+      "group": "Symbols",
+      "subgroup": "arrow",
+      "file": "09_09_Symbols/031_向下箭头_down-arrow__2b07"
+    },
+    "arrow_right": {
+      "cp": "27a1",
+      "zh": "向右箭头",
+      "en": "right arrow",
+      "group": "Symbols",
+      "subgroup": "arrow",
+      "file": "09_09_Symbols/029_向右箭头_right-arrow__27a1"
+    },
+    "arrow_left": {
+      "cp": "2b05",
+      "zh": "向左箭头",
+      "en": "left arrow",
+      "group": "Symbols",
+      "subgroup": "arrow",
+      "file": "09_09_Symbols/033_向左箭头_left-arrow__2b05"
+    },
+    "arrow_back": {
+      "cp": "1f519",
+      "zh": "返回箭头",
+      "en": "BACK arrow",
+      "group": "Symbols",
+      "subgroup": "arrow",
+      "file": "09_09_Symbols/043_返回箭头_BACK-arrow__1f519"
+    },
+    "battery": {
+      "cp": "1f50b",
+      "zh": "电池",
+      "en": "battery",
+      "group": "Objects",
+      "subgroup": "computer",
+      "file": "08_08_Objects/085_电池_battery__1f50b"
+    },
+    "plug": {
+      "cp": "1f50c",
+      "zh": "电源插头",
+      "en": "electric plug",
+      "group": "Objects",
+      "subgroup": "computer",
+      "file": "08_08_Objects/087_电源插头_electric-plug__1f50c"
+    },
+    "magnet": {
+      "cp": "1f9f2",
+      "zh": "磁铁",
+      "en": "magnet",
+      "group": "Objects",
+      "subgroup": "tool",
+      "file": "08_08_Objects/216_磁铁_magnet__1f9f2"
+    },
+    "ruler": {
+      "cp": "1f4d0",
+      "zh": "三角尺",
+      "en": "triangular ruler",
+      "group": "Objects",
+      "subgroup": "office",
+      "file": "08_08_Objects/181_三角尺_triangular-ruler__1f4d0"
+    },
+    "straight_ruler": {
+      "cp": "1f4cf",
+      "zh": "直尺",
+      "en": "straight ruler",
+      "group": "Objects",
+      "subgroup": "office",
+      "file": "08_08_Objects/180_直尺_straight-ruler__1f4cf"
+    },
+    "triangular_ruler": {
+      "cp": "1f4d0",
+      "zh": "三角尺",
+      "en": "triangular ruler",
+      "group": "Objects",
+      "subgroup": "office",
+      "file": "08_08_Objects/181_三角尺_triangular-ruler__1f4d0"
+    },
+    "abacus": {
+      "cp": "1f9ee",
+      "zh": "算盘",
+      "en": "abacus",
+      "group": "Objects",
+      "subgroup": "computer",
+      "file": "08_08_Objects/098_算盘_abacus__1f9ee"
+    },
+    "keyboard": {
+      "cp": "2328",
+      "zh": "键盘",
+      "en": "keyboard",
+      "group": "Objects",
+      "subgroup": "computer",
+      "file": "08_08_Objects/091_键盘_keyboard__2328"
+    },
+    "sparkles": {
+      "cp": "2728",
+      "zh": "闪亮",
+      "en": "sparkles",
+      "group": "Activities",
+      "subgroup": "event",
+      "file": "07_07_Activities/006_闪亮_sparkles__2728"
+    },
+    "robot": {
+      "cp": "1f916",
+      "zh": "机器人",
+      "en": "robot",
+      "group": "Smileys & Emotion",
+      "subgroup": "face-costume",
+      "file": "01_01_Smileys-and-Emotion/119_机器人_robot__1f916"
+    },
+    "bulb": {
+      "cp": "1f4a1",
+      "zh": "灯泡",
+      "en": "light bulb",
+      "group": "Objects",
+      "subgroup": "light & video",
+      "file": "08_08_Objects/111_灯泡_light-bulb__1f4a1"
+    },
+    "star": {
+      "cp": "2b50",
+      "zh": "星星",
+      "en": "star",
+      "group": "Travel & Places",
+      "subgroup": "sky & weather",
+      "file": "06_06_Travel-and-Places/190_星星_star__2b50"
+    },
+    "glowing_star": {
+      "cp": "1f31f",
+      "zh": "闪亮的星星",
+      "en": "glowing star",
+      "group": "Travel & Places",
+      "subgroup": "sky & weather",
+      "file": "06_06_Travel-and-Places/191_闪亮的星星_glowing-star__1f31f"
+    },
+    "fire": {
+      "cp": "1f525",
+      "zh": "火焰",
+      "en": "fire",
+      "group": "Travel & Places",
+      "subgroup": "sky & weather",
+      "file": "06_06_Travel-and-Places/217_火焰_fire__1f525"
+    },
+    "heart": {
+      "cp": "2764",
+      "zh": "红心",
+      "en": "red heart",
+      "group": "Smileys & Emotion",
+      "subgroup": "heart",
+      "file": "01_01_Smileys-and-Emotion/145_红心_red-heart__2764"
+    },
+    "check": {
+      "cp": "2705",
+      "zh": "勾号按钮",
+      "en": "check mark button",
+      "group": "Symbols",
+      "subgroup": "other-symbol",
+      "file": "09_09_Symbols/124_勾号按钮_check-mark-button__2705"
+    },
+    "cross": {
+      "cp": "274c",
+      "zh": "叉号",
+      "en": "cross mark",
+      "group": "Symbols",
+      "subgroup": "other-symbol",
+      "file": "09_09_Symbols/127_叉号_cross-mark__274c"
+    },
+    "warning": {
+      "cp": "26a0",
+      "zh": "警告",
+      "en": "warning",
+      "group": "Symbols",
+      "subgroup": "warning",
+      "file": "09_09_Symbols/014_警告_warning__26a0"
+    },
+    "question": {
+      "cp": "2753",
+      "zh": "红色问号",
+      "en": "red question mark",
+      "group": "Symbols",
+      "subgroup": "punctuation",
+      "file": "09_09_Symbols/110_红色问号_red-question-mark__2753"
+    },
+    "exclamation": {
+      "cp": "2757",
+      "zh": "红色感叹号",
+      "en": "red exclamation mark",
+      "group": "Symbols",
+      "subgroup": "punctuation",
+      "file": "09_09_Symbols/113_红色感叹号_red-exclamation-mark__2757"
+    },
+    "brain": {
+      "cp": "1f9e0",
+      "zh": "脑",
+      "en": "brain",
+      "group": "People & Body",
+      "subgroup": "body-parts",
+      "file": "02_02_People-and-Body/317_脑_brain__1f9e0"
+    },
+    "crystal_ball": {
+      "cp": "1f52e",
+      "zh": "水晶球",
+      "en": "crystal ball",
+      "group": "Activities",
+      "subgroup": "game",
+      "file": "07_07_Activities/060_水晶球_crystal-ball__1f52e"
+    },
+    "magic_wand": {
+      "cp": "1fa84",
+      "zh": "魔棒",
+      "en": "magic wand",
+      "group": "Activities",
+      "subgroup": "game",
+      "file": "07_07_Activities/061_魔棒_magic-wand__1fa84"
+    },
+    "dice": {
+      "cp": "1f3b2",
+      "zh": "骰子",
+      "en": "game die",
+      "group": "Activities",
+      "subgroup": "game",
+      "file": "07_07_Activities/065_骰子_game-die__1f3b2"
+    },
+    "chart_up": {
+      "cp": "1f4c8",
+      "zh": "趋势向上的图表",
+      "en": "chart increasing",
+      "group": "Objects",
+      "subgroup": "office",
+      "file": "08_08_Objects/172_趋势向上的图表_chart-increasing__1f4c8"
+    },
+    "bar_chart": {
+      "cp": "1f4ca",
+      "zh": "条形图",
+      "en": "bar chart",
+      "group": "Objects",
+      "subgroup": "office",
+      "file": "08_08_Objects/174_条形图_bar-chart__1f4ca"
+    },
+    "target": {
+      "cp": "1f3af",
+      "zh": "正中靶心的飞镖",
+      "en": "bullseye",
+      "group": "Activities",
+      "subgroup": "game",
+      "file": "07_07_Activities/055_正中靶心的飞镖_bullseye__1f3af"
+    },
+    "rocket": {
+      "cp": "1f680",
+      "zh": "火箭",
+      "en": "rocket",
+      "group": "Travel & Places",
+      "subgroup": "transport-air",
+      "file": "06_06_Travel-and-Places/138_火箭_rocket__1f680"
+    },
+    "zap": {
+      "cp": "26a1",
+      "zh": "高压",
+      "en": "high voltage",
+      "group": "Travel & Places",
+      "subgroup": "sky & weather",
+      "file": "06_06_Travel-and-Places/212_高压_high-voltage__26a1"
+    },
+    "party": {
+      "cp": "1f389",
+      "zh": "拉炮彩带",
+      "en": "party popper",
+      "group": "Activities",
+      "subgroup": "event",
+      "file": "07_07_Activities/008_拉炮彩带_party-popper__1f389"
+    },
+    "crown": {
+      "cp": "1f451",
+      "zh": "皇冠",
+      "en": "crown",
+      "group": "Objects",
+      "subgroup": "clothing",
+      "file": "08_08_Objects/037_皇冠_crown__1f451"
+    },
+    "gem": {
+      "cp": "1f48e",
+      "zh": "宝石",
+      "en": "gem stone",
+      "group": "Objects",
+      "subgroup": "clothing",
+      "file": "08_08_Objects/047_宝石_gem-stone__1f48e"
+    },
+    "trophy": {
+      "cp": "1f3c6",
+      "zh": "奖杯",
+      "en": "trophy",
+      "group": "Activities",
+      "subgroup": "award-medal",
+      "file": "07_07_Activities/023_奖杯_trophy__1f3c6"
+    },
+    "medal": {
+      "cp": "1f3c5",
+      "zh": "奖牌",
+      "en": "sports medal",
+      "group": "Activities",
+      "subgroup": "award-medal",
+      "file": "07_07_Activities/024_奖牌_sports-medal__1f3c5"
+    },
+    "cat": {
+      "cp": "1f431",
+      "zh": "猫脸",
+      "en": "cat face",
+      "group": "Animals & Nature",
+      "subgroup": "animal-mammal",
+      "file": "04_04_Animals-and-Nature/013_猫脸_cat-face__1f431"
+    },
+    "bear": {
+      "cp": "1f43b",
+      "zh": "熊",
+      "en": "bear",
+      "group": "Animals & Nature",
+      "subgroup": "animal-mammal",
+      "file": "04_04_Animals-and-Nature/057_熊_bear__1f43b"
+    },
+    "rabbit": {
+      "cp": "1f430",
+      "zh": "兔子头",
+      "en": "rabbit face",
+      "group": "Animals & Nature",
+      "subgroup": "animal-mammal",
+      "file": "04_04_Animals-and-Nature/051_兔子头_rabbit-face__1f430"
+    },
+    "fox": {
+      "cp": "1f98a",
+      "zh": "狐狸",
+      "en": "fox",
+      "group": "Animals & Nature",
+      "subgroup": "animal-mammal",
+      "file": "04_04_Animals-and-Nature/011_狐狸_fox__1f98a"
+    },
+    "panda": {
+      "cp": "1f43c",
+      "zh": "熊猫",
+      "en": "panda",
+      "group": "Animals & Nature",
+      "subgroup": "animal-mammal",
+      "file": "04_04_Animals-and-Nature/060_熊猫_panda__1f43c"
+    },
+    "penguin": {
+      "cp": "1f427",
+      "zh": "企鹅",
+      "en": "penguin",
+      "group": "Animals & Nature",
+      "subgroup": "animal-bird",
+      "file": "04_04_Animals-and-Nature/074_企鹅_penguin__1f427"
+    },
+    "frog": {
+      "cp": "1f438",
+      "zh": "青蛙",
+      "en": "frog",
+      "group": "Animals & Nature",
+      "subgroup": "animal-amphibian",
+      "file": "04_04_Animals-and-Nature/089_青蛙_frog__1f438"
+    },
+    "owl": {
+      "cp": "1f989",
+      "zh": "猫头鹰",
+      "en": "owl",
+      "group": "Animals & Nature",
+      "subgroup": "animal-bird",
+      "file": "04_04_Animals-and-Nature/079_猫头鹰_owl__1f989"
+    },
+    "hedgehog": {
+      "cp": "1f994",
+      "zh": "刺猬",
+      "en": "hedgehog",
+      "group": "Animals & Nature",
+      "subgroup": "animal-mammal",
+      "file": "04_04_Animals-and-Nature/055_刺猬_hedgehog__1f994"
+    },
+    "otter": {
+      "cp": "1f9a6",
+      "zh": "水獭",
+      "en": "otter",
+      "group": "Animals & Nature",
+      "subgroup": "animal-mammal",
+      "file": "04_04_Animals-and-Nature/062_水獭_otter__1f9a6"
+    },
+    "koala": {
+      "cp": "1f428",
+      "zh": "考拉",
+      "en": "koala",
+      "group": "Animals & Nature",
+      "subgroup": "animal-mammal",
+      "file": "04_04_Animals-and-Nature/059_考拉_koala__1f428"
+    },
+    "hamster": {
+      "cp": "1f439",
+      "zh": "仓鼠",
+      "en": "hamster",
+      "group": "Animals & Nature",
+      "subgroup": "animal-mammal",
+      "file": "04_04_Animals-and-Nature/050_仓鼠_hamster__1f439"
+    },
+    "unicorn": {
+      "cp": "1f984",
+      "zh": "独角兽",
+      "en": "unicorn",
+      "group": "Animals & Nature",
+      "subgroup": "animal-mammal",
+      "file": "04_04_Animals-and-Nature/024_独角兽_unicorn__1f984"
+    },
+    "whale": {
+      "cp": "1f433",
+      "zh": "喷水的鲸",
+      "en": "spouting whale",
+      "group": "Animals & Nature",
+      "subgroup": "animal-marine",
+      "file": "04_04_Animals-and-Nature/098_喷水的鲸_spouting-whale__1f433"
+    },
+    "dolphin": {
+      "cp": "1f42c",
+      "zh": "海豚",
+      "en": "dolphin",
+      "group": "Animals & Nature",
+      "subgroup": "animal-marine",
+      "file": "04_04_Animals-and-Nature/100_海豚_dolphin__1f42c"
+    },
+    "octopus": {
+      "cp": "1f419",
+      "zh": "章鱼",
+      "en": "octopus",
+      "group": "Animals & Nature",
+      "subgroup": "animal-marine",
+      "file": "04_04_Animals-and-Nature/107_章鱼_octopus__1f419"
+    },
+    "butterfly": {
+      "cp": "1f98b",
+      "zh": "蝴蝶",
+      "en": "butterfly",
+      "group": "Animals & Nature",
+      "subgroup": "animal-bug",
+      "file": "04_04_Animals-and-Nature/117_蝴蝶_butterfly__1f98b"
+    },
+    "bee": {
+      "cp": "1f41d",
+      "zh": "蜜蜂",
+      "en": "honeybee",
+      "group": "Animals & Nature",
+      "subgroup": "animal-bug",
+      "file": "04_04_Animals-and-Nature/120_蜜蜂_honeybee__1f41d"
+    },
+    "chick": {
+      "cp": "1f425",
+      "zh": "正面朝向的小鸡",
+      "en": "front-facing baby chick",
+      "group": "Animals & Nature",
+      "subgroup": "animal-bird",
+      "file": "04_04_Animals-and-Nature/072_正面朝向的小鸡_front-facing-baby-chick__1f425"
+    },
+    "bird": {
+      "cp": "1f426",
+      "zh": "鸟",
+      "en": "bird",
+      "group": "Animals & Nature",
+      "subgroup": "animal-bird",
+      "file": "04_04_Animals-and-Nature/073_鸟_bird__1f426"
+    },
+    "music_cat_hint": {
+      "cp": "1f408",
+      "zh": "猫",
+      "en": "cat",
+      "group": "Animals & Nature",
+      "subgroup": "animal-mammal",
+      "file": "04_04_Animals-and-Nature/014_猫_cat__1f408"
+    }
+  }
+}

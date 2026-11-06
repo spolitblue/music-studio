@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+_out/
+_shots/
+*.wav
+*.musicproj.json
